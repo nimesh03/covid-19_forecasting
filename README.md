@@ -15,12 +15,12 @@ The second section breaks down COVID-19 analytics for all countries:
 - looking at countries with 0 deaths
 - calculating top 25 countries with highest survival probabilities 
 
-The Third section consists of predicting confirmed cases for the next week using machine learning models:
+The third section consists of predicting confirmed cases for the next week using machine learning models:
 - Linear Regression 
 - Polynomial Regression 
 - Support Vector Machines
 
-The Fourth section continues to predict confirmed cases for the next week using time series forecasting techniques"
+The fourth section continues to predict confirmed cases for the next week using time series forecasting techniques"
 - Holt's Linear Method
 - Holt's Winter Model
 - MA Model using AUTO ARIMA 

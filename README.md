@@ -20,7 +20,7 @@ The third section consists of predicting confirmed cases for the next week using
 - Polynomial Regression 
 - Support Vector Machines
 
-The fourth section continues to predict confirmed cases for the next week using time series forecasting techniques"
+The fourth section continues to predict confirmed cases for the next week using time series forecasting techniques:
 - Holt's Linear Method
 - Holt's Winter Model
 - MA Model using AUTO ARIMA 
